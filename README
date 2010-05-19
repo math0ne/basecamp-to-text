@@ -1,0 +1,32 @@
+##############################################################################
+# Copyright © 2010 Aidan McQuay
+#
+# This work is licenced under the Creative Commons BSD License License. To
+# view a copy of this licence, visit http://creativecommons.org/licenses/BSD/
+# or send a letter to Creative Commons, 171 Second Street, Suite 300,
+# San Francisco, California 94105, USA.
+##############################################################################
+
+A simple php program that will take a basecamp feed and format it for test viewing.  I use it to display my basecmap feed on my desktop with samurize.
+
+Setup
+
+1) Add your username/pass/feedurl to the basecamp2php.php file
+2) Set the script to run every X via cron
+
+SAMPLE OUTPUT:
+
+--
+Basecamp Feed
+
+* Comment posted: Re: An inordinate amount of users seem to have the spammer role set.
+* Comment posted: Re: An inordinate amount of users seem to have the spammer role set.
+* Comment posted: Re: Chitka ad's should have blue backgrounds
+* Comment posted: Re: Adjust timing on front page popular articles to be more accurate
+* File uploaded: Capture4.jpg (JPG, 135K)
+* Comment posted: Re: Improved Static File Caching
+* File uploaded: Capture3.jpg (JPG, 249K)
+* File uploaded: Capture2.jpg (JPG, 174K)
+* File uploaded: Capture1.jpg (JPG, 138K)
+* Comment posted: Re: Improved Static File Caching
+--
